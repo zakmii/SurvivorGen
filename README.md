@@ -27,3 +27,6 @@ It showed an accuracy of 92.6204% .
 20% of the data was used for testing the model.
 
 ![Accuracy](./images/accuracy.png)
+
+## Team Members
+### Ankit Singh , Kumar Aryan Singh , Ayush Prakash , Prem Kamal Jain , Yogender Yadav
