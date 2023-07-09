@@ -23,7 +23,7 @@ Employed exploratory data analysis to identify key features for predicting survi
 ![box_plot](./images/EDA5.png)
 
 ## Accuracy
-It showed an accuracy of 92.6204 %
+It showed an accuracy of 92.6204% .
 20% of the data was used for testing the model.
 
 ![Accuracy](./images/accuracy.png)
